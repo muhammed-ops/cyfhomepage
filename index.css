@@ -1,0 +1,75 @@
+/* =================
+  WRITE YOUR CSS HERE.
+  Check the ⌄ for help with formatting and validating your code.
+  You must write some CSS to complete this challenge.
+   ===================
+*/
+html,
+body {
+  margin: 0;
+  height: 100%;
+  background-color : lightblue;
+}
+.pic {
+  height : 290px;
+  width : 50%;
+}
+.vid {
+   height : 290px;
+  width : 50%;
+}
+.c-site-footer  {
+  background-color :
+    black;
+  width : 100%;
+  height: 340px;
+  display : block;
+}
+.c-site-header {
+  font-size : 40px;
+  text-align : center;
+  font-weight : bold;
+  text-decoration : underline;
+  }
+.two {
+  display : flex;
+}
+.email {
+  color : white;
+  font-size : 25px;
+}
+textarea {
+  width : 20%;
+  height : 100px
+}
+button {
+  font-size : 25px;
+}
+.intro {
+  font-size: 20px;
+  text-align : center;
+  text-decoration : underline;
+  font-weight : bolder;
+}
+.list {
+  font-size : 25px;
+}
+.web {
+  text-align:center;
+  font-size:30px;
+}
+.prof {
+  font-size: 25px;
+}
+.randomcolor{
+    border-radius: 30px;
+    margin-left: 30px;
+    padding: 2px 12px;
+}
+
+/* don't edit this */
+.jest-lite-report__status--pass {
+  background: var(--color-pass);
+}
+.jest-lite-report__errors { display:none }
+
